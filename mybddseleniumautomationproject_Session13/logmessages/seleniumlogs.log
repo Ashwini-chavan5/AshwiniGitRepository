@@ -1,0 +1,2 @@
+2024-07-27 22:23:29 DEBUG BrowserUtil.getDriver():23 - Browser value:=null
+2024-07-27 22:23:32 DEBUG BrowserUtil.getDriver():41 - Return the driver object
