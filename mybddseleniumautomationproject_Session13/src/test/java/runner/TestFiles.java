@@ -21,7 +21,7 @@ public class TestFiles {
 	
 	@AfterClass
 	public void t3() {
-		System.out.println("t3()");
+		System.out.println("t3() test method");
 	}
 
 }
